@@ -1,7 +1,4 @@
-©2012 BIT-PAY LLC.
-Permission is hereby granted to any person obtaining a copy of this software
-and associated documentation for use and/or modification in association with
-the bit-pay.com service.
+©2013 BitMyMoney
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -11,7 +8,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 
-Bitcoin payment module using the bit-pay.com service.
+Bitcoin payment module using the BitMyMoney.nl service.
 
 Installation
 ------------
@@ -72,4 +69,3 @@ Version 0.2
   - Removed unnecessary invoice setting
 Version 0.1
   - Initial version, tested against opencart 1.5.1
-
